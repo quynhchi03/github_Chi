@@ -10,7 +10,7 @@ pre : " <b> 2. </b> "
 #### Nội dung 
 
 1. INTELLIJ là gì?
-2. CÁCH CÀI ĐẶT INTELLIJ 
-3. TẠO PROJECT BẰNG INTELLIJ
+2. Cách cài đặt INTELLIJ 
+3. Tạo PROJECT bằng INTELLIJ
 
-![alt text](/images/1.1/001.png)
+![alt text](/github_Chi/images/1.1/001.png)

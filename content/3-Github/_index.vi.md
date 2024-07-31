@@ -10,4 +10,4 @@ pre : " <b> 3. </b> "
 1. Lý Thuyết về Github
 2. Hướng dẫn sử dụng Github
 
-![alt text](/images/3/image-001.png)
+![alt text](/github_Chi/images/3/image-001.png)

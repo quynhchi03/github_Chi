@@ -18,7 +18,7 @@ pre : " <b> 1.2 </b> "
 
 **=> Hiểu đơn giản: Docker compose là công cụ giúp chạy 1 lúc nhiều container**
 
-![alt text](/images/1.1/image-003.png)
+![alt text](/github_Chi/images/1.1/image-003.png)
 
 - Không giống như Dockerfile (build các image). Docker compose dùng để build và run các container. Các thao tác của docker-compose tương tự như lệnh: docker run.
 
