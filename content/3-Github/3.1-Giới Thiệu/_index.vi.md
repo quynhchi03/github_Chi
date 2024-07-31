@@ -13,7 +13,7 @@ pre : " <b> 3.1 </b> "
 - Một số khái niệm cơ bản
 - Câu lệnh cơ bản của Github
 
-#### **1.Github là gì?**
+#### **1..Github là gì?**
 
 - **GitHub** là một dịch vụ cung cấp kho lưu trữ mã nguồn Git dựa trên nền web cho các dự án phát triển phần mềm.
 - **Git** đơn giản hơn đó là nó sẽ giúp bạn lưu lại các phiên bản của những lần thay đổi vào mã nguồn và có thể dễ dàng khôi phục lại dễ dàng mà không cần copy lại mã nguồn rồi cất vào đâu đó.
